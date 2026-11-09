@@ -91,7 +91,7 @@ export default function App() {
         <p className="mb-3 text-xs font-semibold tracking-[0.16em] text-indigo-600 uppercase">
           Team setup
         </p>
-        <h1 className="text-2xl font-semibold tracking-tight text-slate-950">
+        <h1 className="text-2xl font-semibold tracking-tight text-indigo-600">
           Choose your department
         </h1>
         <p className="mt-2 text-sm leading-6 text-slate-500">
