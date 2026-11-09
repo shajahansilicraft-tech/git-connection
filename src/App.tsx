@@ -88,7 +88,7 @@ export default function App() {
   return (
     <main className="flex min-h-screen items-center justify-center bg-slate-50 px-5 py-12 text-slate-900">
       <section className="w-full max-w-md rounded-3xl border border-slate-200 bg-white p-8 shadow-[0_24px_60px_rgba(15,23,42,0.08)] sm:p-10">
-        <p className="mb-3 text-xs font-semibold tracking-[0.16em] text-indigo-600 uppercase">
+        <p className="mb-3 text-xs font-semibold tracking-[0.16em] text-slate-950 uppercase">
           Team setup
         </p>
         <h1 className="text-2xl font-semibold tracking-tight text-slate-950">
